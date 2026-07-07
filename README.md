@@ -7,7 +7,7 @@ Full-Stack Developer · 11+ years experience · Building WJS Tech
 ## 🚀 Tech Stack
 
 - **Frontend:** Vue.js, React, TypeScript, TailwindCSS
-- **Backend:** Laravel (PHP), Node.js, Python
+- **Backend:** Laravel (PHP), Node.js (NestJS/Express)
 - **DevOps:** Docker, AWS, CI/CD
 - **AI:** LLMs, LangChain, RAG
 
