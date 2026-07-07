@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**tempo-lab/tempo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm WJS
+Full-Stack Developer · 11+ years experience · Building WJS Lab
+---
+## 🚀 Tech Stack
+- **Frontend:** Vue.js, React, TypeScript, TailwindCSS
+- **Backend:** Laravel, Node.js, Python
+- **DevOps:** Docker, AWS, CI/CD
+- **AI:** LLMs, LangChain, RAG
+---
+## 📁 Projects
+Check out my pinned repositories below for my latest work!
+---
+## 🔗 Connect
+- [GitHub](https://github.com/tempo-lab)
+- [WJS Lab](https://github.com/tempo-lab)
+---
+⭐ “Stay hungry, stay foolish.”
