@@ -131,10 +131,8 @@ Following Immersive learning methodology methods:
 
 
 - [ ] Build tech blog with VitePress
-- [ ] Personal navigation page with curated resources
-- [ ] React Admin version of backend management system
-- [ ] ASP.NET Core backend implementation
 - [ ] Build my own AI workflow (.docs + .rules + .skills)
+- [ ] Personal navigation page with curated resources
 - [ ] Create my own AI agent
 
 
